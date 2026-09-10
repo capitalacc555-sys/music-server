@@ -1,0 +1,12 @@
+node_modules/
+.idea/
+.vscode/
+android-nightwave/.gradle/
+android-nightwave/build/
+android-nightwave/app/build/
+.env
+.env.*
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

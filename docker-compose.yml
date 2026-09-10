@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  music-server:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: music-server
+    restart: unless-stopped
+    environment:
+      HOST: 0.0.0.0
+      PORT: 3000
+      PUBLIC_URL: https://seu-dominio.com
+    ports:
+      - "3000:3000"

@@ -1,0 +1,1 @@
+Coloque aqui sua imagem de logo (ex: logo.png) e referencie o caminho no arquivo config.js (campo 'logo').

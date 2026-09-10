@@ -1,0 +1,198 @@
+{
+  "config": {
+    "musicFolders": [
+      "C:\\Users\\Pedro\\Desktop\\music-server\\data\\offline-downloads"
+    ],
+    "theme": "dark"
+  },
+  "tracks": {},
+  "albums": {},
+  "artists": {},
+  "playlists": {
+    "4b7198d4-2555-4ae6-a987-e00477a52462": {
+      "id": "4b7198d4-2555-4ae6-a987-e00477a52462",
+      "name": "asd",
+      "trackIds": [],
+      "createdAt": 1788922362866,
+      "sortMode": "manual"
+    }
+  },
+  "favorites": [],
+  "history": [
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788920070251
+    },
+    {
+      "trackId": "7382dc5a60231cfdd07839d773882922",
+      "playedAt": 1788920000994
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788919795268
+    },
+    {
+      "trackId": "8f742d8162065894a92d989c2346cd6d",
+      "playedAt": 1788919792147
+    },
+    {
+      "trackId": "b688f8a2fb28dde454f5e41e0981ead9",
+      "playedAt": 1788919518905
+    },
+    {
+      "trackId": "0f0c95cc2f4f005863bfae13239ff1fc",
+      "playedAt": 1788918639322
+    },
+    {
+      "trackId": "33ae7d1038f3b9adf8e690594b380356",
+      "playedAt": 1788918637321
+    },
+    {
+      "trackId": "2797babfa437d4c527d95816fd61fa88",
+      "playedAt": 1788918637034
+    },
+    {
+      "trackId": "429de427a86a698882e159d3b031a7a1",
+      "playedAt": 1788918632585
+    },
+    {
+      "trackId": "2797babfa437d4c527d95816fd61fa88",
+      "playedAt": 1788912406557
+    },
+    {
+      "trackId": "d7313835400eee45e045bdd2f804218b",
+      "playedAt": 1788912161432
+    },
+    {
+      "trackId": "33ae7d1038f3b9adf8e690594b380356",
+      "playedAt": 1788912080066
+    },
+    {
+      "trackId": "b688f8a2fb28dde454f5e41e0981ead9",
+      "playedAt": 1788911912400
+    },
+    {
+      "trackId": "33ae7d1038f3b9adf8e690594b380356",
+      "playedAt": 1788911858347
+    },
+    {
+      "trackId": "b688f8a2fb28dde454f5e41e0981ead9",
+      "playedAt": 1788911690698
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788910602392
+    },
+    {
+      "trackId": "42d9b5fb04120875f29635ea316c4812",
+      "playedAt": 1788910599084
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788910195378
+    },
+    {
+      "trackId": "42d9b5fb04120875f29635ea316c4812",
+      "playedAt": 1788904953549
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788903018215
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788902853244
+    },
+    {
+      "trackId": "42d9b5fb04120875f29635ea316c4812",
+      "playedAt": 1788902814774
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788902786455
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788902768555
+    },
+    {
+      "trackId": "42d9b5fb04120875f29635ea316c4812",
+      "playedAt": 1788902719454
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788902673766
+    },
+    {
+      "trackId": "42d9b5fb04120875f29635ea316c4812",
+      "playedAt": 1788902554956
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788902554332
+    },
+    {
+      "trackId": "726a05d9c02972f5cff9d9c4a9418b54",
+      "playedAt": 1788902496613
+    },
+    {
+      "trackId": "42d9b5fb04120875f29635ea316c4812",
+      "playedAt": 1788902495126
+    },
+    {
+      "trackId": "726a05d9c02972f5cff9d9c4a9418b54",
+      "playedAt": 1788902488493
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788902487581
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788902260199
+    },
+    {
+      "trackId": "aa7508e779fec02f03e65d5193c066eb",
+      "playedAt": 1788902217728
+    },
+    {
+      "trackId": "726a05d9c02972f5cff9d9c4a9418b54",
+      "playedAt": 1788902167350
+    }
+  ],
+  "stats": {
+    "726a05d9c02972f5cff9d9c4a9418b54": {
+      "plays": 3
+    },
+    "aa7508e779fec02f03e65d5193c066eb": {
+      "plays": 13
+    },
+    "42d9b5fb04120875f29635ea316c4812": {
+      "plays": 6
+    },
+    "b688f8a2fb28dde454f5e41e0981ead9": {
+      "plays": 3
+    },
+    "33ae7d1038f3b9adf8e690594b380356": {
+      "plays": 3
+    },
+    "d7313835400eee45e045bdd2f804218b": {
+      "plays": 1
+    },
+    "2797babfa437d4c527d95816fd61fa88": {
+      "plays": 2
+    },
+    "429de427a86a698882e159d3b031a7a1": {
+      "plays": 1
+    },
+    "0f0c95cc2f4f005863bfae13239ff1fc": {
+      "plays": 1
+    },
+    "8f742d8162065894a92d989c2346cd6d": {
+      "plays": 1
+    },
+    "7382dc5a60231cfdd07839d773882922": {
+      "plays": 1
+    }
+  }
+}

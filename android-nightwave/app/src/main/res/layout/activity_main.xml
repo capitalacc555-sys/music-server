@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0b0d12"
+    android:fitsSystemWindows="false">
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#0b0d12" />
+
+    <LinearLayout
+        android:id="@+id/loadingContainer"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#0b0d12"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="24dp">
+
+        <ImageView
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:contentDescription="NightWave logo"
+            android:src="@drawable/expirada_logo"
+            android:scaleType="centerInside" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="18dp"
+            android:text="NightWave"
+            android:textColor="#F3F4F6"
+            android:textSize="26sp"
+            android:textStyle="bold" />
+
+        <ProgressBar
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_marginTop="18dp"
+            android:indeterminateTint="#B794F4" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/serverConfigPanel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="#101827"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="Servidor do PC"
+            android:textColor="#E5E7EB"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/serverUrlInput"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:background="#1F2937"
+            android:hint="http://192.168.1.10:8000"
+            android:inputType="textUri"
+            android:paddingHorizontal="12dp"
+            android:text="http://192.168.1.10:8000"
+            android:textColor="#F8FAFC"
+            android:textColorHint="#94A3B8" />
+
+        <Button
+            android:id="@+id/connectButton"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:layout_marginTop="10dp"
+            android:backgroundTint="#8B5CF6"
+            android:text="Conectar"
+            android:textColor="#FFFFFF" />
+    </LinearLayout>
+
+</FrameLayout>

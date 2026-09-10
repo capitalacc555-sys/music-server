@@ -1,0 +1,21 @@
+{
+  "name": "NightWave",
+  "version": "1.0.0",
+  "description": "Servidor local de música com painel web, inspirado no Spotify",
+  "main": "server/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "node server/index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "music-metadata": "^7.14.0",
+    "multer": "^2.0.1",
+    "socket.io": "^4.7.5",
+    "socket.io-client": "^4.7.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
