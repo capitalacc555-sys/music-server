@@ -5,7 +5,9 @@ android-nightwave/.gradle/
 android-nightwave/build/
 android-nightwave/app/build/
 .env
-.env.*
+.env.local
+.env.production
+!.env.example
 *.log
 npm-debug.log*
 .DS_Store
